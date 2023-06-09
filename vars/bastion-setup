@@ -1,3 +1,4 @@
 amiid: 'ami-012a02c31b6079415'
 region: "us-east-2"
-MyIP: 
+MyIP: 103.80.118.10/32
+
